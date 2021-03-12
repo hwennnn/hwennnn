@@ -1,4 +1,11 @@
-### Hi there 👋
+![hwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwennnn&show_icons=true&count_private=true&theme=material-palenight)
+
+[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hwennnn&theme=material-palenight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwen&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwennnn&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **hwennnn/hwennnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
