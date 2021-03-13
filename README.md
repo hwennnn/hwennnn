@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwennnn&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://github-profile-trophy.vercel.app/?username=hwennnn&theme=dracula&margin-w=10)
+
 
 <!--
 **hwennnn/hwennnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
