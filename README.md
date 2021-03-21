@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hwennnn&label=Profile%20views&color=0e75b6&style=flat" alt="hwennnn" /> </p>
+
 ![hwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwennnn&show_icons=true&count_private=true&theme=material-palenight&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwennnn&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hwennnn&theme=material-palenight)](https://github.com/DenverCoder1/github-readme-streak-stats)
