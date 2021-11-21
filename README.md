@@ -71,8 +71,7 @@ This is the place where I make stuff and break things :rofl:
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-<a href="https://linkedin.com/in/hwendev" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-" alt="hwen_linkedin" /></a>
+<a href="https://linkedin.com/in/hwendev" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="hwen_linkedin" /></a>
 <a href="https://www.leetcode.com/hwennn" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="hwen_leetcode"></a>
 
 📊 &nbsp;**This week I spent my time on**
