@@ -14,7 +14,7 @@
 This is the place where I make stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently doing competitive programing as a hobby :wink:
-- 🌱 &nbsp;I’m currently learning advanced data structures and ReactJS with Nextjs
+- 🌱 &nbsp;I’m currently learning advanced data structures and React with Next.js
 - 💬 &nbsp;Ask me about anything related to Flutter and Python
 - 📫 &nbsp;How to reach me: [@hwendev](mailto:hwendev@gmail.com)
 - ⚡ &nbsp;Fun fact: I am a decentraland believer
