@@ -2,6 +2,7 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hwennnn&label=Profile%20views&color=0e75b6&style=flat" alt="watching_count" />
+    <img src="https://cp-logo.vercel.app/leetcode/hwennn" />
 </p>
 
 <p align="center">
