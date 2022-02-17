@@ -2,7 +2,7 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hwennnn&label=Profile%20views&color=0e75b6&style=flat" alt="watching_count" />
-    <a href="https://www.leetcode.com/hwennn" target="blank"><img src="https://cp-badges-eihfyun3n-kehsihba19.vercel.app/leetcode/hwennn" alt="hwen_leetcode"></a>
+    <a href="https://www.leetcode.com/hwennn" target="blank"><img src="https://cp-badges-hwennnn.vercel.app/leetcode/hwennn" alt="hwen_leetcode"></a>
 </p>
 
 <p align="center">
