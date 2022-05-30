@@ -62,7 +62,7 @@ I am a fresh polytechnic IT graduate and I will be matriculating into CS @ Natio
 
 - [hwendev.com](https://www.hwendev.com/), my personal site! 😄
 - [LinkedIn](https://linkedin.com/in/hwendev), and connect with me! 💼
-- [Leetcode](https://linkedin.com/in/hwendev), let's grind Leetcode together :D 🚀
+- [Leetcode](https://leetcode.com/hwennn/), let's grind Leetcode together :D 🚀
 
 <br/>
 
