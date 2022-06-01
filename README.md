@@ -74,8 +74,11 @@ I am a fresh polytechnic IT graduate and I will be matriculating into CS @ Natio
   <summary><b>📈&nbsp;Random stats</b></summary>
   <br/>
 
-![hwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwennnn&show_icons=true&count_private=true&theme=material-palenight&hide_title=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwennnn&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+![hwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwennnn&show_icons=true&count_private=true&theme=material-palenight&hide_title=true)
 <a href='https://profile.codersrank.io/user/hwennnn/'>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hwennnn&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
+/>
 <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hwennnn&padding=30'>
 </a>
 ![](https://github-profile-trophy.vercel.app/?username=hwennnn&theme=dracula&margin-w=10)
