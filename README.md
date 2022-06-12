@@ -1,4 +1,4 @@
-# Hi, I am Hou Man <span><img src="assets/hi.gif" width="30px" height="30px"></span>
+# Hi, I am Hou Man👋
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hwennnn&label=Profile%20views&color=0e75b6&style=flat" alt="watching_count" />
