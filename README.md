@@ -2,7 +2,6 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hwennnn&label=Profile%20views&color=0e75b6&style=flat" alt="watching_count" />
-    <a href="https://www.leetcode.com/hwennn" target="blank"><img src="https://cp-logo.vercel.app/leetcode/hwennn" alt="hwen_leetcode"></a>
 </p>
 
 <p> 
@@ -62,7 +61,6 @@ I am a fresh polytechnic IT graduate and I will be matriculating into CS @ Natio
 
 - [hwendev.com](https://www.hwendev.com/), my personal site! 😄
 - [LinkedIn](https://linkedin.com/in/hwendev), and connect with me! 💼
-- [Leetcode](https://leetcode.com/hwennn/), let's grind Leetcode together :D 🚀
 
 <br/>
 
