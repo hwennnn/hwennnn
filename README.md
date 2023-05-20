@@ -64,9 +64,9 @@ I am a fresh polytechnic IT graduate and I will be matriculating into CS @ Natio
 
 <br/>
 
-📊 &nbsp;**This week I spent my time on**
+📊 &nbsp;**I spent my time on**
 
-[![hwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwen&theme=material-palenight&langs_count=5&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![hwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwen&theme=material-palenight&langs_count=5&hide_title=true)](https://wakatime.com/@hwen)
 
 <details>
   <summary><b>📈&nbsp;Random stats</b></summary>
