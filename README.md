@@ -2,7 +2,6 @@
 
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=hwennnn&label=Profile%20views&color=0e75b6&style=flat" alt="watching_count" />
-    <a href="https://www.leetcode.com/theonepieceisreal" target="blank"><img src="https://cp-logo.vercel.app/leetcode/theonepieceisreal" alt="hwen_leetcode"></a>
 </p>
 
 <p> 
