@@ -60,7 +60,7 @@ I am a fresh polytechnic IT graduate and I will be matriculating into CS @ Natio
 ## Connect with me
 
 - [hwendev.com](https://www.hwendev.com/), my personal site! 😄
-- [LinkedIn](https://linkedin.com/in/hwendev), and connect with me! 💼
+- [LinkedIn](https://linkedin.com/in/houmanwai), and connect with me! 💼
 
 <br/>
 
