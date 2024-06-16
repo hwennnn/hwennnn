@@ -5,7 +5,7 @@
 </p>
 
 <p> 
-I am a fresh polytechnic IT graduate and I will be matriculating into CS @ National University of Singapore at 2024. I enjoy software development and I do random side projects related to full stack development and mobile application development. Currently, I am aiming to improve my skills on writing more optimised and performant code.
+I am an incoming freshman pursuing Computer Science at the National University of Singapore, expecting to graduate by May 2027. My interests lie in software development, particularly in full-stack and mobile application development. Currently, I am dedicated to improving my skills in writing optimized and efficient code.
 
 </p>
 
@@ -67,18 +67,3 @@ I am a fresh polytechnic IT graduate and I will be matriculating into CS @ Natio
 📊 &nbsp;**This week I spent my time on**
 
 [![hwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwen&theme=material-palenight&langs_count=5&hide_title=true&range=last_7_days)](https://wakatime.com/@hwen)
-
-<details>
-  <summary><b>📈&nbsp;Random stats</b></summary>
-  <br/>
-
-![hwen's GitHub stats](https://github-readme-stats.vercel.app/api?username=hwennnn&show_icons=true&count_private=true&theme=material-palenight&hide_title=true)
-<a href='https://profile.codersrank.io/user/hwennnn/'>
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=hwennnn&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"
-/>
-<img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=hwennnn&padding=30'>
-</a>
-![](https://github-profile-trophy.vercel.app/?username=hwennnn&theme=dracula&margin-w=10)
-
-</details>
