@@ -5,7 +5,7 @@
 </p>
 
 <p> 
-I am an incoming freshman pursuing Computer Science at the National University of Singapore, expecting to graduate by May 2027. My interests lie in software development, particularly in full-stack and mobile application development. Currently, I am dedicated to improving my skills in writing optimized and efficient code.
+I am currently pursuing Computer Science at the National University of Singapore, expecting to graduate by May 2027. My interests lie in software development, particularly in full-stack and mobile application development. Currently, I am dedicated to improving my skills in writing optimized and efficient code.
 
 </p>
 
@@ -62,8 +62,3 @@ I am an incoming freshman pursuing Computer Science at the National University o
 - [hwendev.com](https://www.hwendev.com/), my personal site! 😄
 - [LinkedIn](https://linkedin.com/in/houmanwai), and connect with me! 💼
 
-<br/>
-
-📊 &nbsp;**This week I spent my time on**
-
-[![hwen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hwen&theme=material-palenight&langs_count=5&hide_title=true&range=last_7_days)](https://wakatime.com/@hwen)
