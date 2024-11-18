@@ -5,7 +5,9 @@
 </p>
 
 <p> 
-I am currently pursuing Computer Science at the National University of Singapore, expecting to graduate by May 2027. My interests lie in software development, particularly in full-stack and mobile application development. Currently, I am dedicated to improving my skills in writing optimized and efficient code.
+I am currently pursuing Computer Science at the National University of Singapore.
+
+I thrive on tackling challenging problems and constantly push myself to the boundaries of my abilities, driven by a passion for software engineering and innovation. My ultimate goal is to create impactful solutions that benefit society.
 
 </p>
 
